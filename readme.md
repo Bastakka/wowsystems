@@ -20,7 +20,7 @@ The ablities were wonderful and really added an interesting bonus to your class 
 ## A
 
 ### Azerite Armor
-A system that relied on the level of your **[Heart of Azeroth](#heart-of-azeroth)**, same as the [Essence Power](#essence-power) system, which consumed your Helm, Shoulders and a Chest equipment slots.
+A system that relied on the level of your **Heart of Azeroth**, same as the [Essence Power](#essence-power) system, which consumed your Helm, Shoulders and a Chest equipment slots.
 
 Based on the level of your Heart Of Azeroth different level gear provided different passive abilites and stats that you get to choose from. You could farm a different piece for the specific bonus you wanted.
 
